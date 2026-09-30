@@ -16,14 +16,56 @@ Tài liệu trong kho được sắp xếp theo từng năm học và học kỳ
 - 💡 **Đề thi & Note:** Đề thi tham khảo các năm và ghi chép tổng hợp kiến thức cơ bản.
 
 ### 📍 Năm 1
-* [Tên môn học - VD: Nhập môn Kỹ thuật Điện tử và Tin học](./Nam-1/Nhap-mon-KTDTTH)
-* [Tên môn học - VD: Đại số tuyến tính](./Nam-1/Dai-so-tuyen-tinh)
-* [Tên môn học - VD: Kỹ thuật lập trình](./Nam-1/Ky-thuat-lap-trinh)
+
+**Kỳ 1**
+* [Tên môn học - VD: Nhập môn Kỹ thuật Điện tử và Tin học](./Nam-1/Ky-1/Nhap-mon-KTDTTH)
+* [Tên môn học - VD: Đại số tuyến tính](./Nam-1/Ky-1/Dai-so-tuyen-tinh)
+
+**Kỳ 2**
+* [Tên môn học - VD: Kỹ thuật lập trình](./Nam-1/Ky-2/Ky-thuat-lap-trinh)
+* [Tên môn học - VD: Vật lý đại cương 1](./Nam-1/Ky-2/Vat-ly-dai-cuong-1)
+
+**Kỳ hè**
+* [Tên môn học - VD: Giáo dục Quốc phòng](./Nam-1/Ky-he/GDQP)
+* [Tên môn học - VD: Thể dục](./Nam-1/Ky-he/The-duc)
 
 ### 📍 Năm 2
-* [Tên môn học - VD: Cấu trúc dữ liệu và giải thuật](./Nam-2/CTDL-GT)
-* [Tên môn học - VD: Mạch điện tử](./Nam-2/Mach-dien-tu)
-*(Mình sẽ tiếp tục cập nhật thêm khi hoàn thành các học kỳ tiếp theo...)*
+
+**Kỳ 1**
+* [Tên môn học - VD: Cấu trúc dữ liệu và giải thuật](./Nam-2/Ky-1/CTDL-GT)
+* [Tên môn học - VD: Mạch điện tử](./Nam-2/Ky-1/Mach-dien-tu)
+
+**Kỳ 2**
+* [Tên môn học - VD: Giải tích mạch](./Nam-2/Ky-2/Giai-tich-mach)
+* [Tên môn học - VD: Cơ sở dữ liệu](./Nam-2/Ky-2/Co-so-du-lieu)
+
+**Kỳ hè**
+* [Tên môn học](./Nam-2/Ky-he/Ten-mon-hoc)
+
+### 📍 Năm 3
+
+**Kỳ 1**
+* [Tên môn học - VD: Vi xử lý và Vi điều khiển](./Nam-3/Ky-1/Vi-dieu-khien)
+* [Tên môn học - VD: Trí tuệ nhân tạo](./Nam-3/Ky-1/AI)
+
+**Kỳ 2**
+* [Tên môn học - VD: Xử lý tín hiệu số](./Nam-3/Ky-2/Xu-ly-tin-hieu-so)
+* [Tên môn học - VD: Mạng máy tính](./Nam-3/Ky-2/Mang-may-tinh)
+
+**Kỳ hè**
+* [Tên môn học](./Nam-3/Ky-he/Ten-mon-hoc)
+
+### 📍 Năm 4
+
+**Kỳ 1**
+* [Tên môn học - VD: Thiết kế hệ thống nhúng](./Nam-4/Ky-1/He-thong-nhung)
+* [Tên môn học - VD: Kỹ thuật Robot](./Nam-4/Ky-1/Ky-thuat-robot)
+
+**Kỳ 2**
+* [Thực tập chuyên ngành / Doanh nghiệp](./Nam-4/Ky-2/Thuc-tap-chuyen-nganh)
+* [Khóa luận tốt nghiệp](./Nam-4/Ky-2/Khoa-luan-tot-nghiep)
+
+*(Mình sẽ tiếp tục cập nhật tài liệu theo tiến độ học tập thực tế...)*
 
 ## 🚀 Hướng dẫn sử dụng
 
@@ -39,4 +81,5 @@ Nếu các bạn thấy kho tài liệu này hữu ích, hãy tặng mình một
 Chúc các bạn có những kỳ học thật tốt, đạt điểm cao và giữ vững đam mê với ngành học! 🌟
 
 From HUS with love!
+
 Tùng
